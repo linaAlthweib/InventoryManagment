@@ -67,7 +67,7 @@ namespace InventoryManagmentSystem
         public static void DisplayMenu()
         {
             Console.WriteLine("");
-            Console.WriteLine("Menu");
+            Console.WriteLine("Menu items");
             Console.WriteLine("1.Display products");
             Console.WriteLine("2.Add products");
             Console.WriteLine("3.Edit products");
