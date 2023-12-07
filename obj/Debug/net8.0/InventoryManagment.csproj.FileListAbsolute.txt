@@ -1,0 +1,14 @@
+C:\Users\ThinkPad\source\repos\InventoryManagment\bin\Debug\net8.0\InventoryManagment.exe
+C:\Users\ThinkPad\source\repos\InventoryManagment\bin\Debug\net8.0\InventoryManagment.deps.json
+C:\Users\ThinkPad\source\repos\InventoryManagment\bin\Debug\net8.0\InventoryManagment.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\InventoryManagment\bin\Debug\net8.0\InventoryManagment.dll
+C:\Users\ThinkPad\source\repos\InventoryManagment\bin\Debug\net8.0\InventoryManagment.pdb
+C:\Users\ThinkPad\source\repos\InventoryManagment\obj\Debug\net8.0\InventoryManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\source\repos\InventoryManagment\obj\Debug\net8.0\InventoryManagment.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\InventoryManagment\obj\Debug\net8.0\InventoryManagment.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\InventoryManagment\obj\Debug\net8.0\InventoryManagment.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\InventoryManagment\obj\Debug\net8.0\InventoryManagment.dll
+C:\Users\ThinkPad\source\repos\InventoryManagment\obj\Debug\net8.0\refint\InventoryManagment.dll
+C:\Users\ThinkPad\source\repos\InventoryManagment\obj\Debug\net8.0\InventoryManagment.pdb
+C:\Users\ThinkPad\source\repos\InventoryManagment\obj\Debug\net8.0\InventoryManagment.genruntimeconfig.cache
+C:\Users\ThinkPad\source\repos\InventoryManagment\obj\Debug\net8.0\ref\InventoryManagment.dll
